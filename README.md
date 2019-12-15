@@ -16,7 +16,7 @@ The environment is considered to be solved when the Agent gets an average score 
 
 ## Getting Started
 
-1. Install project dependencies by following the instructions mentioned at [this link](https://github.com/udacity/deep-reinforcement-learning/#dependencies).
+1. Install project dependencies by following the instructions mentioned in the [Installation_Guide.md](Installation_Guide.md).
 
 2. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
    
